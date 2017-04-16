@@ -28,7 +28,7 @@ Pillow==4.1.0
 scipy==0.19.0
 ```
 
-### Installation guide on Windows
+### Installation notes on Windows
 
 Download Python 3.5.2 e.g. form here: [python.org/downloads/release/python-352](https://www.python.org/downloads/release/python-352/).
 Make sure you check Add Python 3.5 to PATH. After that open a *Command prompt (Admin)*
