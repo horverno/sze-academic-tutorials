@@ -26,6 +26,7 @@ notebook==4.4.1
 jupyter==1.0.0
 Pillow==4.1.0
 scipy==0.19.0
+wxPython==4.0.0a2
 ```
 
 ### Installation notes on Windows
@@ -35,7 +36,7 @@ Make sure you check Add Python 3.5 to PATH. After that open a *Command prompt (A
 
 You can install most of the dependencies with pip install statements. You can individually `pip install package_name`, or as one statement:
 ```
-pip install numpy matplotlib opencv-python jupyter Pillow spyder
+pip install numpy matplotlib opencv-python jupyter Pillow spyder wxPython
 pip3 install --upgrade tensorflow
 ```
 
